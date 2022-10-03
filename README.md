@@ -19,8 +19,7 @@ Explanation: There is no common prefix among the input strings.
 ```
 
 ## Installation
-1. In your sei55homework folder > `git pull`
-2. In your terminal, navigate to today's practice question folder - `~/sei55-homework/warmups/week11/tues`
-3. `npm install`
-4. **Important:** Copy the contents into your own folder where you do your practice questions (otherwise there will be git conflicts) 
-5. Write your solution in the prefix.js file
+1. git clone https://github.com/kristabel-wong/longest-common-prefix.git
+2. npm i                # install the Jest test runner
+3. npm run watch:first  # run this first while debugging
+4. npm run watch        # to run in watch mode
