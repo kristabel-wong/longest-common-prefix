@@ -20,8 +20,9 @@ Explanation: There is no common prefix among the input strings.
 
 ## Installation
 ```
-1. git clone https://github.com/kristabel-wong/longest-common-prefix.git
-2. npm i                # install the Jest test runner
-3. npm run watch:first  # run this first while debugging
-4. npm run watch        # to run in watch mode
+git clone https://github.com/kristabel-wong/longest-common-prefix.git
+cd longest-common-prefix
+npm i                # install the Jest test runner
+npm run watch:first  # run this first while debugging
+npm run watch        # to run in watch mode
 ```
